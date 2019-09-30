@@ -1,8 +1,8 @@
 Welcome to a ReactJS ATM App.
 
-The App is a simple representation of an ATM, and it allows a user to view their balance, withdraw said balance, and go into their overdraft. Only one pincode is accepted "1111".
+The App is a simple representation of an ATM, and it allows a user to view their balance, withdraw said balance, and go into their overdraft. Only one pincode is accepted "1111". 
 
-
+The UX is designed to be as efficient, and clean as possible. 
 
 Steps to use the app:
 
