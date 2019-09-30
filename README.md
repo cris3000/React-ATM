@@ -18,3 +18,4 @@ Make sure a relatively recent NodeJS is installed.
 
 
 
+![ATM1 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM1.jpg)
