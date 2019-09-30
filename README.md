@@ -24,9 +24,9 @@ It will then lead you to the Balance page, of which shall contain the account ho
 ![ATM2 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM2.jpg)
 
 Upon submit of the aforementioned balance page, it will lead the user to the Withdrawal page. It displays the new balance, as well as the denominations of the notes withdrawn from the ATM.
-![ATM3 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM3.jpg)
+![ATM3 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM3.png)
 
 
-![ATM4 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM4.jpg)
-![ATM5 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM5.jpg)
-![ATM6 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM6.jpg)
+![ATM4 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM4.png)
+![ATM5 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM5.png)
+![ATM6 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM6.png)
