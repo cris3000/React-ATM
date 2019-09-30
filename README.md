@@ -17,5 +17,16 @@ Make sure a relatively recent NodeJS is installed.
 
 
 
-
+The App shall open on the ATM console. A successful pin of '1111' is required. 
 ![ATM1 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM1.jpg)
+
+It will then lead you to the Balance page, of which shall contain the account holders balance, and allow them to enter the amount of which they wish to withdraw.
+![ATM2 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM2.jpg)
+
+Upon submit of the aforementioned balance page, it will lead the user to the Withdrawal page. It displays the new balance, as well as the denominations of the notes withdrawn from the ATM.
+![ATM3 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM3.jpg)
+
+
+![ATM4 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM4.jpg)
+![ATM5 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM5.jpg)
+![ATM6 Screenshot](https://github.com/cris3000/React-ATM/blob/master/Images/ATM6.jpg)
