@@ -14,7 +14,7 @@ Make sure a relatively recent NodeJS is installed.
 4. Run 'npm install react-router-dom'
 5. Run 'npm start' to begin
 
-![Image of Screenshot1](https://imgur.com/HrBtZtK)
+
 
 
 
